@@ -816,6 +816,7 @@
     <string name="settings_dashboard_style_oos12">OxygenOS 12</string>
     <string name="settings_dashboard_style_cherish">Cherish</string>
     <string name="settings_dashboard_style_cherish_clean">Cherish Clean</string>
+	<string name="settings_dashboard_style_rui">PalletteUI</string>
     <string name="settings_layout_category_title">Settings UI interface</string>
     <string name="settings_base_style_title">Settings Base layout</string>
     <string name="settings_base_style_summary">Use an alternative layout for setting menus</string>
